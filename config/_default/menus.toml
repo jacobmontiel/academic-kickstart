@@ -4,30 +4,25 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "about/"
-  weight = 20
-
-[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "News"
   url = "#posts"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 40
 
 [[main]]
   identifier = "activities-menu"
   url = "activities"
   name = "Activities"
-  weight = 60
+  weight = 50
   has_children = true
 
 [[main]]
@@ -39,6 +34,11 @@
 parent = "activities-menu"
 name = "Teaching"
 url = "activities/#teaching"
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = 60
    
 [[main]]
   name = "Contact"
