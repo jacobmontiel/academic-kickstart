@@ -8,11 +8,11 @@ event_url = "https://anacondacon.io/"
 location = "Austin, United States"
 
 selected = false
-math = true
+math = false
 
-url_pdf = ""
+url_pdf = "https://drive.google.com/open?id=1hDOpozsT9XUF7MGSD-4YV-Fa5IOScL9w"
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/B-NN-weo5e4"
 
 +++
 
