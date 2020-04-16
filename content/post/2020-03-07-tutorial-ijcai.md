@@ -10,10 +10,10 @@ title = "Tutorial accepted at IJCAI 2020"
 [image]
 caption = ""
 focal_point = ""
-placement = 0
+placement = nil
 
 +++
-Our tutorial **Machine learning for data streams with scikit-multiflow** has been accepted for presentation in [IJCAI-PRICAI 2020](https://ijcai20.org/)!
+Our tutorial **"Machine learning for data streams with scikit-multiflow"** has been accepted for presentation in [IJCAI-PRICAI 2020](https://ijcai20.org/)!
 
 #### Abstract
 
