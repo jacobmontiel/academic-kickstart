@@ -49,4 +49,4 @@ fields:
   label: featured
   description: You can filter by featured content on your homepage
 pages:
-- content/post/tutorial-accepted-for-ijcai-2020.md
+- content/post/2020-03-07-tutorial-ijcai.md
