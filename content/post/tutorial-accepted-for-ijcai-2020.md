@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-03-06T11:00:00Z
+date = 2020-03-06T23:00:00Z
 draft = true
 featured = false
 projects = ["scikit-multiflow"]
@@ -11,7 +11,7 @@ title = "Tutorial accepted at IJCAI 2020"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
+placement = 0
 
 +++
 Our tutorial **Machine learning for data streams with scikit-multiflow** has been accepted for presentation in [IJCAI-PRICAI 2020](https://ijcai20.org/)!
