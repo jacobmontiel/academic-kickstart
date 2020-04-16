@@ -7,7 +7,7 @@ projects = ["scikit-multiflow"]
 subtitle = ""
 summary = ""
 tags = ["scikit-multiflow", "tutorial", "data streams", "machine learning", "research"]
-title = "Tutorial accepted for IJCAI 2020"
+title = "Tutorial accepted at IJCAI 2020"
 [image]
 caption = ""
 focal_point = ""
