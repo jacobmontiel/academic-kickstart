@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-06T23:00:00Z
-draft = true
 featured = false
 projects = ["scikit-multiflow"]
 subtitle = ""
