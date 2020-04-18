@@ -1,14 +1,12 @@
 +++
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
-
-title = "Professional activities"
+active = true
+headless = true
 subtitle = ""
+title = "Professional activities"
+weight = 10
+widget = "blank"
 
 +++
-
 # Research
 
 My research interests include (but are not limited to):
@@ -17,19 +15,22 @@ My research interests include (but are not limited to):
 * Learning from imbalanced data
 * Missing data imputation
 
-___
+***
 
 # Open Source Software
 
 * [scikit-multiflow](https://scikit-multiflow.github.io/)
 
-___
+***
 
 # Program committees
-* *Memberships*
+
+* _Memberships_
   * ACML 2018, 2019
-  * ECAI 2020  
-* *Reviewer*
+  * IJCAI-PRICAI 2020
+  * ECAI 2020
+* _Reviewer_
   * ACML 2017
-* *External reviewer*
+  * NEURIPS 2020
+* _External reviewer_
   * SIGKDD 2017, 2018, 2019
