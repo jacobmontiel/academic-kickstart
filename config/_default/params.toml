@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "I am a computer scientist whose main research interests are in the area of Artificial Intelligence/Machine Learning for evolving data streams. I am the lead developer of scikit-multiflow."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
