@@ -9,7 +9,7 @@ widget = "blank"
 +++
 Courses at the University of Waikato (New Zealand):
 
-* COMPX523-20A - Data Stream Mining
+* COMPX523-20A - Data Stream Mining (2020)
 
 ***
 
@@ -41,4 +41,4 @@ Courses in the Computer Science Department, University of Queretaro (_Mexico_):
 
 * Pattern Recognition (2011)
 * Analysis of Algorithms (2011)
-* Advanced Data Structures (2011)
+* Advance Data Structures (2011)
