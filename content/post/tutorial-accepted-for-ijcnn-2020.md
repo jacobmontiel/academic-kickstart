@@ -11,7 +11,7 @@ title = "Tutorial accepted for IJCNN 2020"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
+placement = 0
 
 +++
 Our tutorial for stream learning with scikit-multiflow has been accepted in IJCNN 2020.
