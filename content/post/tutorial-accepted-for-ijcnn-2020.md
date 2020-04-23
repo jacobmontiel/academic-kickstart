@@ -1,0 +1,17 @@
++++
+authors = []
+date = 2020-02-29T11:00:00Z
+draft = true
+featured = false
+projects = ["scikit-multiflow"]
+subtitle = ""
+summary = ""
+tags = ["scikit-multiflow", "tutorial", "data streams", "machine learning", "research"]
+title = "Tutorial accepted for IJCNN 2020"
+[image]
+caption = ""
+focal_point = ""
+placement = nil
+
++++
+Our tutorial for stream learning with scikit-multiflow has been accepted in IJCNN 2020.
