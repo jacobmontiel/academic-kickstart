@@ -18,7 +18,7 @@ organizations:
   url: "https://www.waikato.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at the University of Waikato (NZ) and lead programmer of scikit-multiflow.
+bio: Research Fellow at the University of Waikato (NZ) and lead developer of scikit-multiflow.
 
 interests:
 - Artificial Intelligence
