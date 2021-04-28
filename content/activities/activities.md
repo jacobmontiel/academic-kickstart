@@ -28,9 +28,10 @@ My research interests include (but are not limited to):
 * _Conference organizing committee_
   * **Reproducibility Chair** --- 21st IEEE International Conference on Data Mining (ICDM)
 * _Memberships_
-  * ACML 2018, 2019
+  * ACML 2018, 2019, 2020
   * ECAI 2020
   * IJCAI-PRICAI 2020, 2021
+  * PAKDD 2018, 2020, 2021
   * SIGKDD 2021
 * _Reviewer_
   * ACML 2017
