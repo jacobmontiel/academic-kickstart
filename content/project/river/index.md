@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "scikit-multiflow"
-summary: "One of the ancestors of River. [Superseded by River]"
+title: "River"
+summary: "A Python library for online machine learning."
 authors: []
 tags: ["machine learning", "data streams", "python"]
 categories: ["foss", "machine learning", "data streams", "research"]
 date: 2019-01-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://scikit-multiflow.github.io/"
+external_link: "https://riverml.xyz/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,12 +21,12 @@ image:
 
 links:
 - name: Repository
-  url: https://github.com/scikit-multiflow/scikit-multiflow
+  url: https://github.com/online-ml/river
   icon_pack: fab
   icon: github
 
 url_code: ""
-url_pdf: "https://www.jmlr.org/papers/volume19/18-251/18-251.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

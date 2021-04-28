@@ -23,13 +23,13 @@ bio: Research Fellow at the University of Waikato (NZ) and maintainer of River.
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Data Streams
+- Evolving Data Streams
 - Open-Source Software
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Université Paris-Saclay (FR)
+    institution: Télécom Paris, Université Paris-Saclay (FR)
     year: 2019
   - course: MEng in Computer Science
     institution: Tokyo Institute of Technology (JP)
@@ -73,8 +73,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Fellow in the [AI Institute](https://ai.waikato.ac.nz/) at the [University of Waikato](https://www.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/). I am also Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for for data streams.
+I am a Research Fellow in the [Artificial Intelligence Institute, Te Ipu o te Mahara](https://ai.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/) at the [University of Waikato](https://www.waikato.ac.nz/). I am also Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for for data streams.
 
-I worked at GE Aviation as Tech Lead in the development of embedded software for Diagnostics and Prognostics of Airborne Systems.
+I worked at GE Aviation as Tech Lead in the development of embedded software for diagnostics and prognostics of airborne systems.
 
 For further information, please check the [about](/about) section or my page in [LinkedIn](https://www.linkedin.com/in/jacobmontiel/).
