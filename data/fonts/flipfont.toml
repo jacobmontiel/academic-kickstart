@@ -2,7 +2,7 @@
 name = "flipfont"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700;400italic,700&family=Raleway&family=Lato&family=Titillium+Web"
+google_fonts = "family=Montserrat:wght@400;700&family=Raleway&family=Roboto+Mono&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
 
 # Font families
 heading_font = "Montserrat"
