@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Fellow in the [Artificial Intelligence Institute, Te Ipu o te Mahara](https://ai.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/) at the [University of Waikato](https://www.waikato.ac.nz/). I am also an Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for for data streams.
+I am a Research Fellow in the [Artificial Intelligence Institute, Te Ipu o te Mahara](https://ai.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/) at the [University of Waikato](https://www.waikato.ac.nz/). I am also an Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for data streams.
 
 I worked at GE Aviation as Tech Lead in the development of embedded software for diagnostics and prognostics of airborne systems.
 
