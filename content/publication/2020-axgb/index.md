@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adaptive XGBoost for Evolving Data Streams"
-authors: [Montiel Jacob, Mitchell Rory, Frank Eibe, Pfahringer Bernhard, Abdessalem Talel, Bifet Albert]
+authors: [Jacob Montiel, Rory Mitchell, Eibe Frank, Bernhard Pfahringer, Talel Abdessalem, Albert Bifet]
 date: 2020-09-28
 doi: ""
 

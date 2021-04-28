@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Predicting over-indebtedness on batch and streaming data."
-authors: [Montiel Jacob, Bifet Albert, Abdessalem Talel]
+authors: [Jacob Montiel, Albert Bifet, Talel Abdessalem]
 date: 2017-12-11
 doi: "https://doi.org/10.1109/BigData.2017.8258084"
 

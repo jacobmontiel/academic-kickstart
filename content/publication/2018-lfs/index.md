@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Learning Fast and Slow: A Unified Batch/Stream Framework."
-authors: [Montiel Jacob, Bifet Albert, Losing Viktor, Read Jesse, Abdessalem Talel]
+authors: [Jacob Montiel, Albert Bifet, Viktor Losing, Jesse Read, Talel Abdessalem]
 date: 2018-12-10
 doi: "https://doi.org/10.1109/BigData.2018.8622222"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Scikit-Multiflow: A Multi-output Streaming Framework."
-authors: [Montiel Jacob, Read Jesse, Bifet Albert, Abdessalem Talel]
+authors: [Jacob Montiel, Jesse Read, Albert Bifet, Talel Abdessalem]
 date: 2018-10-15
 doi: ""
 

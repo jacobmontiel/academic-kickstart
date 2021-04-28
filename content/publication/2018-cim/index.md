@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Scalable Model-Based Cascaded Imputation of Missing Data."
-authors: [Montiel Jacob, Read Jesse, Bifet Albert, Abdessalem Talel]
+authors: [Jacob Montiel, Jesse Read, Albert Bifet, Talel Abdessalem]
 date: 2018-01-17
 doi: ""
 

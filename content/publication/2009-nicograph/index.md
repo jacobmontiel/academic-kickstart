@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Prototype-based Intraclass Pose Recognition of Partial 3D Scans"
-authors: [Montiel Jacob, Laga Hamid, Nakajima Masayuki]
+authors: [Jacob Montiel, Hamid Laga, Masayuki Nakajima]
 date: 2009-06-19
 doi: ""
 

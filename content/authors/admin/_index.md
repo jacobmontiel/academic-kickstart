@@ -2,10 +2,6 @@
 # Display name
 title: Jacob Montiel
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -72,6 +68,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 I am a Research Fellow in the [Artificial Intelligence Institute, Te Ipu o te Mahara](https://ai.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/) at the [University of Waikato](https://www.waikato.ac.nz/). I am also an Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for data streams.
 
