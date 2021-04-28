@@ -9,7 +9,7 @@ widget = "blank"
 +++
 Courses at the University of Waikato (New Zealand):
 
-* COMPX523-20A - Data Stream Mining (2020)
+* COMPX523 - Data Stream Mining (2020, 2021)
 
 ***
 
