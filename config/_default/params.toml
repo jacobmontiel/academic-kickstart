@@ -47,7 +47,7 @@ org_name = ""
 description = "I am a computer scientist whose main research interests are in the area of Artificial Intelligence/Machine Learning for evolving data streams. I am the lead developer of scikit-multiflow."
 
 # Display a logo in navigation bar rather than title (optional).
-#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+#   To enable, place an image in `assets/media` and reference its filename below. To disable, set the value to "".
 logo = ""
 
 ############################
@@ -118,7 +118,7 @@ contact_links = [
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+# Default image for social sharing and search engines. Place image in `assets/media` folder and specify image name here.
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
@@ -249,3 +249,12 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-169598487-1"
   google_tag_manager = ""
+
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = false
+  
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/

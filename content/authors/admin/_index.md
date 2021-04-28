@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jacob Montiel
+title: Jacob Montiel
 
 # Username (this should match the folder name)
 authors:
@@ -14,17 +14,17 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Waikato
-  url: "https://www.waikato.ac.nz/"
+- name: University of Waikato - AI Institute
+  url: "https://ai.waikato.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at the University of Waikato (NZ) and lead developer of scikit-multiflow.
+bio: Research Fellow at the University of Waikato (NZ) and maintainer of River.
 
 interests:
 - Artificial Intelligence
 - Machine Learning
 - Data Streams
-- Open Source Software
+- Open-Source Software
 
 education:
   courses:
@@ -73,8 +73,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Fellow in the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/) at the [University of Waikato](https://www.waikato.ac.nz/). I am the lead developer and maintainer of [scikit-multiflow](https://scikit-multiflow.github.io/), a machine learning framework for multi-label/multi-output stream data.
+I am a Research Fellow in the [AI Institute](https://ai.waikato.ac.nz/) at the [University of Waikato](https://www.waikato.ac.nz/) and a member of the [Machine Learning Group](https://www.cs.waikato.ac.nz/~ml/). I am also Adjunct Researcher in the [DIG Team](https://dig.telecom-paris.fr/) at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I am a core developer and maintainer of [River](hthttps://riverml.xyz), a machine learning library for for data streams.
 
 I worked at GE Aviation as Tech Lead in the development of embedded software for Diagnostics and Prognostics of Airborne Systems.
 
-For further information, please check the [about](/about) section.
+For further information, please check the [about](/about) section or my page in [LinkedIn](https://www.linkedin.com/in/jacobmontiel/).
